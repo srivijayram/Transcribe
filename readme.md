@@ -6,6 +6,11 @@ Done using the tutorial
   1. https://youtu.be/SBvmnHTQIPY
   2. https://www.w3schools.com/nodejs/
 
+# Modules completed
+  1. Connected to Mongo database
+  2. Google authentication 
+  3. User Interface for uploading audio
+  4. Logout functionality 
 
 # Install dependencies
 npm install
